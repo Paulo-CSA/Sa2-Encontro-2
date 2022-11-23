@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Skuzi\\Desktop\\EncontroRemoto-2\\EncontroRemoto-2.csproj": {}
+    "C:\\Users\\Skuzi\\Desktop\\Sa2-Encontro-2-main\\EncontroRemoto-2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Skuzi\\Desktop\\EncontroRemoto-2\\EncontroRemoto-2.csproj": {
+    "C:\\Users\\Skuzi\\Desktop\\Sa2-Encontro-2-main\\EncontroRemoto-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Skuzi\\Desktop\\EncontroRemoto-2\\EncontroRemoto-2.csproj",
+        "projectUniqueName": "C:\\Users\\Skuzi\\Desktop\\Sa2-Encontro-2-main\\EncontroRemoto-2.csproj",
         "projectName": "EncontroRemoto-2",
-        "projectPath": "C:\\Users\\Skuzi\\Desktop\\EncontroRemoto-2\\EncontroRemoto-2.csproj",
+        "projectPath": "C:\\Users\\Skuzi\\Desktop\\Sa2-Encontro-2-main\\EncontroRemoto-2.csproj",
         "packagesPath": "C:\\Users\\Skuzi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Skuzi\\Desktop\\EncontroRemoto-2\\obj\\",
+        "outputPath": "C:\\Users\\Skuzi\\Desktop\\Sa2-Encontro-2-main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Skuzi\\AppData\\Roaming\\NuGet\\NuGet.Config"
