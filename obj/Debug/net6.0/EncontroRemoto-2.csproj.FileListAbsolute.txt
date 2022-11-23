@@ -1,0 +1,15 @@
+C:\Users\Skuzi\Desktop\EncontroRemoto-2\bin\Debug\net6.0\EncontroRemoto-2.exe
+C:\Users\Skuzi\Desktop\EncontroRemoto-2\bin\Debug\net6.0\EncontroRemoto-2.deps.json
+C:\Users\Skuzi\Desktop\EncontroRemoto-2\bin\Debug\net6.0\EncontroRemoto-2.runtimeconfig.json
+C:\Users\Skuzi\Desktop\EncontroRemoto-2\bin\Debug\net6.0\EncontroRemoto-2.dll
+C:\Users\Skuzi\Desktop\EncontroRemoto-2\bin\Debug\net6.0\EncontroRemoto-2.pdb
+C:\Users\Skuzi\Desktop\EncontroRemoto-2\obj\Debug\net6.0\EncontroRemoto-2.csproj.AssemblyReference.cache
+C:\Users\Skuzi\Desktop\EncontroRemoto-2\obj\Debug\net6.0\EncontroRemoto-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skuzi\Desktop\EncontroRemoto-2\obj\Debug\net6.0\EncontroRemoto-2.AssemblyInfoInputs.cache
+C:\Users\Skuzi\Desktop\EncontroRemoto-2\obj\Debug\net6.0\EncontroRemoto-2.AssemblyInfo.cs
+C:\Users\Skuzi\Desktop\EncontroRemoto-2\obj\Debug\net6.0\EncontroRemoto-2.csproj.CoreCompileInputs.cache
+C:\Users\Skuzi\Desktop\EncontroRemoto-2\obj\Debug\net6.0\EncontroRemoto-2.dll
+C:\Users\Skuzi\Desktop\EncontroRemoto-2\obj\Debug\net6.0\refint\EncontroRemoto-2.dll
+C:\Users\Skuzi\Desktop\EncontroRemoto-2\obj\Debug\net6.0\EncontroRemoto-2.pdb
+C:\Users\Skuzi\Desktop\EncontroRemoto-2\obj\Debug\net6.0\EncontroRemoto-2.genruntimeconfig.cache
+C:\Users\Skuzi\Desktop\EncontroRemoto-2\obj\Debug\net6.0\ref\EncontroRemoto-2.dll
