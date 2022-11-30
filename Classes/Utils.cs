@@ -20,5 +20,12 @@ namespace EncontroRemoto_2.Classes
             Console.ResetColor();
             Console.Clear();
         }
+        public static void ParadaNoConsole(string txt)
+        {
+            Console.WriteLine(txt);
+            Console.WriteLine($"Aperte ENTER para continuar:");
+            Console.ReadLine();
+
+        }
     }
 }
